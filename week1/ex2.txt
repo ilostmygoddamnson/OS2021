@@ -1,0 +1,6 @@
+    1  ls /usr/bin | grep gcc | sort -r > ex1.txt
+    2  nano ex3.sh
+    3  sh ex3.sh
+    4  nano main.c
+    5  gcc main.c -o ex4
+    6  history > ex2.txt
