@@ -1,6 +1,86 @@
-    1  ls /usr/bin | grep gcc | sort -r > ex1.txt
-    2  nano ex3.sh
-    3  sh ex3.sh
-    4  nano main.c
-    5  gcc main.c -o ex4
-    6  history > ex2.txt
+    1  cout<< "3";
+    2  f
+    3  g
+    4  mk dir ~/week1
+    5  mkdir ~/week1
+    6  cd ~/week1
+    7  ls /usr/bin | grep gcc | sort -r > ex1.txt
+    8  ls /usr/lib > ex1.txt | grep gcc | sort -r > ex1.txt
+    9  ls /usr/bin | grep.txt | grep gcc | sort -n -r > ex1.txt
+   10  touch ex1.txt
+   11  less ex1.txt | sort -n -r > ex1.txt
+   12  ls
+   13  mv ex1.txt week1/ex1.txt
+   14  ls
+   15  :s
+   16  ;s
+   17  ls
+   18  gedit ex1.txt
+   19  ls
+   20  clear
+   21  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   22  ls /usr/bin | grep gcc | sort -r >ex1.tct
+   23  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   24  ls
+   25  sh ex3.sh
+   26  gedit ls /usr/bin | grep gcc | sort -r > ex1.txt
+   27  ls /usr/bin | grep gcc | sort -r >ex1.txt
+   28  sh ex3.sh
+   29  gedit ~/main.c
+   30  gedit~/main.c
+   31  touch main.c
+   32  gedit~/main.c
+   33  gedit~/week1/main.c
+   34  ls /usr/bin | grep gcc | sort -n -r > ex1.txt
+   35  history > ex.2
+   36  history > ex2.txt
+   37  ls /usr/bin | grep gcc | sort -n -r > ex1.txt
+   38  sh ex3.sh
+   39  history > ex2.txt
+   40  gedit~main.c
+   41  apt-get install gcc
+   42  nano main.c
+   43  gcc main.c -o ex4
+   44  ./ex4
+   45  gcc main.c -o ex
+   46  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   47  nano ex3.sh
+   48  sh ex3.sh
+   49  nano main.c
+   50  gcc main.c -o ex4
+   51  history > ex2.txt
+   52  gcc main.c -o ex4
+   53  gcc main.c -o ex4
+   54  gcc main.c -o ex4
+   55  gcc main,c -o ex4
+   56  gcc main.c -o ex4
+   57  gcc main.c -o ex4
+   58  gedit~/main.c
+   59  gedit~/Desktop/УЧЕБА/innopolis/OS/week1/main.c
+   60  gcc main.c -o ex4
+   61  gcc main.c
+   62  gcc main.c -o ex4
+   63  gcc main.c -o ex4
+   64  gcc main.c -o ex4
+   65  ls
+   66  gcc
+   67  gcc -v
+   68  set Path=C:\MinGW\bin;%PATH%
+   69  gcc -v
+   70  set Path=C:\MinGW\bin;%PATH%
+   71  set Path=C:\MinGW\bin
+   72  gcc -v
+   73  set Path=C:\MinGW\bin\gcc
+   74  gcc
+   75  gcc
+   76  C:\mingw32\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0
+   77  set Path=C:\MinGW\bin\gcc
+   78  gcc
+   79  gcc main.c -o ex4
+   80  set Path=C:\MinGW\bin\gcc
+   81  gcc
+   82  gcc C:\Users\1\Desktop\УЧЕБА\innopolis\OS\week1\main.c -o C:\Users\1\Desktop\УЧЕБА\innopolis\OS\week1\ex4
+   83  gcc main.c -p ex4
+   84  touch ex4
+   85  gcc main.c -o ex4
+   86  history > ex2.txt
